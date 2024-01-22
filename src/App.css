@@ -1,0 +1,36 @@
+body{
+background-color: aqua;
+ 
+}
+.app {
+  margin: 50% 0 50% 0;
+  width: fit-content;
+  display: flex;
+  flex-direction: column;
+  margin: 0 auto; 
+  height: 100vh;
+justify-content: center;
+}
+#result {
+  width: 60px;
+}
+button {
+  width: 30px;
+  height: 30px;
+  background-color: black;
+  color: white;
+  border: none;
+}
+#clear {
+  width: 60px;
+}
+.container {
+  width: 120px;
+height: 25px;
+background-color: whitesmoke;
+}
+p {
+  float: right;
+  margin: 0;
+  padding-right: 5px;
+}
